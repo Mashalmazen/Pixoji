@@ -1,23 +1,25 @@
 package com.mashalmazen.pixoji.presentation.viewmodel
 
+import android.content.Context
 import android.graphics.Bitmap
+import android.net.Uri
+import android.provider.MediaStore
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.mashalmazen.pixoji.data.datastore.SettingsDataStore
-import com.mashalmazen.pixoji.data.usecase.ProcessImageUseCaseImpl
-import com.mashalmazen.pixoji.data.usecase.SaveImageUseCaseImpl
 import com.mashalmazen.pixoji.domain.model.EmojiCategory
 import com.mashalmazen.pixoji.domain.model.ProcessingSettings
 import com.mashalmazen.pixoji.domain.model.ProcessingState
 import com.mashalmazen.pixoji.domain.model.ThemeMode
-import com.mashalmazen.pixoji.domain.repository.EmojiRepository
 import com.mashalmazen.pixoji.domain.usecase.ProcessImageUseCase
 import com.mashalmazen.pixoji.domain.usecase.SaveImageUseCase
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 data class PixojiUiState(
     val processingState: ProcessingState = ProcessingState.Idle,
@@ -30,7 +32,8 @@ data class PixojiUiState(
 class PixojiViewModel(
     private val settingsDataStore: SettingsDataStore,
     private val processImageUseCase: ProcessImageUseCase,
-    private val saveImageUseCase: SaveImageUseCase
+    private val saveImageUseCase: SaveImageUseCase,
+    private val context: Context
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(PixojiUiState())
@@ -45,6 +48,25 @@ class PixojiViewModel(
             settingsDataStore.settingsFlow.collect { settings ->
                 _uiState.update { state ->
                     state.copy(currentSettings = settings)
+                }
+            }
+        }
+    }
+
+    fun loadImageFromUri(uri: Uri) {
+        viewModelScope.launch {
+            try {
+                val bitmap = withContext(Dispatchers.IO) {
+                    MediaStore.Images.Media.getBitmap(context.contentResolver, uri)
+                }
+                setSelectedImage(bitmap)
+            } catch (e: Exception) {
+                _uiState.update { state ->
+                    state.copy(
+                        processingState = ProcessingState.Error(
+                            "Failed to load image: ${e.message}"
+                        )
+                    )
                 }
             }
         }
