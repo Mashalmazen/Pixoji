@@ -60,16 +60,43 @@
     "g": 205,
     "b": 100,
     "category": "people",
-    "name": "grinning sweat"
+    "name": "laughing"
   },
   {
-    "unicode": "1F923",
-    "emoji": "🤣",
+    "unicode": "1F607",
+    "emoji": "😇",
     "r": 255,
-    "g": 195,
-    "b": 80,
+    "g": 220,
+    "b": 150,
     "category": "people",
-    "name": "rolling on floor"
+    "name": "halo"
+  },
+  {
+    "unicode": "1F608",
+    "emoji": "😈",
+    "r": 180,
+    "g": 100,
+    "b": 180,
+    "category": "people",
+    "name": "smiling imp"
+  },
+  {
+    "unicode": "1F609",
+    "emoji": "😉",
+    "r": 255,
+    "g": 220,
+    "b": 120,
+    "category": "people",
+    "name": "winking"
+  },
+  {
+    "unicode": "1F60A",
+    "emoji": "😊",
+    "r": 255,
+    "g": 220,
+    "b": 130,
+    "category": "people",
+    "name": "smiling"
   },
   {
     "unicode": "1F60B",
@@ -81,6 +108,24 @@
     "name": "yum"
   },
   {
+    "unicode": "1F60C",
+    "emoji": "😌",
+    "r": 220,
+    "g": 200,
+    "b": 150,
+    "category": "people",
+    "name": "relieved"
+  },
+  {
+    "unicode": "1F60D",
+    "emoji": "😍",
+    "r": 255,
+    "g": 100,
+    "b": 140,
+    "category": "people",
+    "name": "heart eyes"
+  },
+  {
     "unicode": "1F60E",
     "emoji": "😎",
     "r": 50,
@@ -88,6 +133,330 @@
     "b": 50,
     "category": "people",
     "name": "sunglasses"
+  },
+  {
+    "unicode": "1F60F",
+    "emoji": "😏",
+    "r": 200,
+    "g": 200,
+    "b": 100,
+    "category": "people",
+    "name": "smirk"
+  },
+  {
+    "unicode": "1F610",
+    "emoji": "😐",
+    "r": 200,
+    "g": 200,
+    "b": 200,
+    "category": "people",
+    "name": "neutral"
+  },
+  {
+    "unicode": "1F611",
+    "emoji": "😑",
+    "r": 180,
+    "g": 180,
+    "b": 180,
+    "category": "people",
+    "name": "expressionless"
+  },
+  {
+    "unicode": "1F612",
+    "emoji": "😒",
+    "r": 200,
+    "g": 150,
+    "b": 100,
+    "category": "people",
+    "name": "unamused"
+  },
+  {
+    "unicode": "1F613",
+    "emoji": "😓",
+    "r": 180,
+    "g": 180,
+    "b": 180,
+    "category": "people",
+    "name": "sweat"
+  },
+  {
+    "unicode": "1F614",
+    "emoji": "😔",
+    "r": 150,
+    "g": 150,
+    "b": 200,
+    "category": "people",
+    "name": "pensive"
+  },
+  {
+    "unicode": "1F615",
+    "emoji": "😕",
+    "r": 200,
+    "g": 180,
+    "b": 150,
+    "category": "people",
+    "name": "confused"
+  },
+  {
+    "unicode": "1F616",
+    "emoji": "😖",
+    "r": 220,
+    "g": 150,
+    "b": 150,
+    "category": "people",
+    "name": "confounded"
+  },
+  {
+    "unicode": "1F617",
+    "emoji": "😗",
+    "r": 255,
+    "g": 180,
+    "b": 180,
+    "category": "people",
+    "name": "kissing"
+  },
+  {
+    "unicode": "1F618",
+    "emoji": "😘",
+    "r": 255,
+    "g": 150,
+    "b": 180,
+    "category": "people",
+    "name": "kiss"
+  },
+  {
+    "unicode": "1F619",
+    "emoji": "😙",
+    "r": 255,
+    "g": 160,
+    "b": 170,
+    "category": "people",
+    "name": "kissing smiling"
+  },
+  {
+    "unicode": "1F61A",
+    "emoji": "😚",
+    "r": 255,
+    "g": 140,
+    "b": 160,
+    "category": "people",
+    "name": "kissing closed eyes"
+  },
+  {
+    "unicode": "1F61B",
+    "emoji": "😛",
+    "r": 255,
+    "g": 200,
+    "b": 100,
+    "category": "people",
+    "name": "stuck tongue"
+  },
+  {
+    "unicode": "1F61C",
+    "emoji": "😜",
+    "r": 255,
+    "g": 210,
+    "b": 110,
+    "category": "people",
+    "name": "wink tongue"
+  },
+  {
+    "unicode": "1F61D",
+    "emoji": "😝",
+    "r": 255,
+    "g": 180,
+    "b": 90,
+    "category": "people",
+    "name": "squinting tongue"
+  },
+  {
+    "unicode": "1F61E",
+    "emoji": "😞",
+    "r": 150,
+    "g": 150,
+    "b": 200,
+    "category": "people",
+    "name": "disappointed"
+  },
+  {
+    "unicode": "1F61F",
+    "emoji": "😟",
+    "r": 180,
+    "g": 150,
+    "b": 200,
+    "category": "people",
+    "name": "worried"
+  },
+  {
+    "unicode": "1F620",
+    "emoji": "😠",
+    "r": 200,
+    "g": 100,
+    "b": 100,
+    "category": "people",
+    "name": "angry"
+  },
+  {
+    "unicode": "1F621",
+    "emoji": "😡",
+    "r": 220,
+    "g": 80,
+    "b": 80,
+    "category": "people",
+    "name": "pouting"
+  },
+  {
+    "unicode": "1F622",
+    "emoji": "😢",
+    "r": 100,
+    "g": 150,
+    "b": 220,
+    "category": "people",
+    "name": "crying"
+  },
+  {
+    "unicode": "1F623",
+    "emoji": "😣",
+    "r": 150,
+    "g": 100,
+    "b": 100,
+    "category": "people",
+    "name": "persevere"
+  },
+  {
+    "unicode": "1F624",
+    "emoji": "😤",
+    "r": 200,
+    "g": 100,
+    "b": 80,
+    "category": "people",
+    "name": "triumph"
+  },
+  {
+    "unicode": "1F625",
+    "emoji": "😥",
+    "r": 150,
+    "g": 180,
+    "b": 220,
+    "category": "people",
+    "name": "disappointed relieved"
+  },
+  {
+    "unicode": "1F626",
+    "emoji": "😦",
+    "r": 180,
+    "g": 180,
+    "b": 200,
+    "category": "people",
+    "name": "frowning surprised"
+  },
+  {
+    "unicode": "1F627",
+    "emoji": "😧",
+    "r": 200,
+    "g": 150,
+    "b": 150,
+    "category": "people",
+    "name": "anguished"
+  },
+  {
+    "unicode": "1F628",
+    "emoji": "😨",
+    "r": 150,
+    "g": 100,
+    "b": 80,
+    "category": "people",
+    "name": "fearful"
+  },
+  {
+    "unicode": "1F629",
+    "emoji": "😩",
+    "r": 100,
+    "g": 100,
+    "b": 150,
+    "category": "people",
+    "name": "weary"
+  },
+  {
+    "unicode": "1F62A",
+    "emoji": "😪",
+    "r": 180,
+    "g": 160,
+    "b": 200,
+    "category": "people",
+    "name": "sleepy"
+  },
+  {
+    "unicode": "1F62B",
+    "emoji": "😫",
+    "r": 150,
+    "g": 130,
+    "b": 180,
+    "category": "people",
+    "name": "tired face"
+  },
+  {
+    "unicode": "1F62C",
+    "emoji": "😬",
+    "r": 200,
+    "g": 200,
+    "b": 150,
+    "category": "people",
+    "name": "grimacing"
+  },
+  {
+    "unicode": "1F62D",
+    "emoji": "😭",
+    "r": 100,
+    "g": 100,
+    "b": 200,
+    "category": "people",
+    "name": "loudly crying"
+  },
+  {
+    "unicode": "1F62E",
+    "emoji": "😮",
+    "r": 200,
+    "g": 200,
+    "b": 100,
+    "category": "people",
+    "name": "open mouth"
+  },
+  {
+    "unicode": "1F62F",
+    "emoji": "😯",
+    "r": 180,
+    "g": 180,
+    "b": 150,
+    "category": "people",
+    "name": "hushed"
+  },
+  {
+    "unicode": "1F630",
+    "emoji": "😰",
+    "r": 100,
+    "g": 150,
+    "b": 200,
+    "category": "people",
+    "name": "cold sweat"
+  },
+  {
+    "unicode": "1F631",
+    "emoji": "😱",
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "category": "people",
+    "name": "scream"
+  },
+  {
+    "unicode": "1F632",
+    "emoji": "😲",
+    "r": 180,
+    "g": 180,
+    "b": 180,
+    "category": "people",
+    "name": "astonished"
   },
   {
     "unicode": "1F633",
@@ -117,22 +486,67 @@
     "name": "dizzy"
   },
   {
-    "unicode": "1F644",
-    "emoji": "🙄",
+    "unicode": "1F636",
+    "emoji": "😶",
+    "r": 200,
+    "g": 180,
+    "b": 160,
+    "category": "people",
+    "name": "zipper mouth"
+  },
+  {
+    "unicode": "1F637",
+    "emoji": "😷",
     "r": 200,
     "g": 200,
     "b": 200,
     "category": "people",
-    "name": "face with rolling eyes"
+    "name": "face with medical mask"
   },
   {
-    "unicode": "1F60C",
-    "emoji": "😌",
-    "r": 220,
+    "unicode": "1F638",
+    "emoji": "😸",
+    "r": 255,
+    "g": 220,
+    "b": 100,
+    "category": "people",
+    "name": "grinning cat"
+  },
+  {
+    "unicode": "1F639",
+    "emoji": "😹",
+    "r": 255,
+    "g": 200,
+    "b": 90,
+    "category": "people",
+    "name": "cat with tears"
+  },
+  {
+    "unicode": "1F63A",
+    "emoji": "😺",
+    "r": 255,
+    "g": 210,
+    "b": 110,
+    "category": "people",
+    "name": "smiling cat"
+  },
+  {
+    "unicode": "1F920",
+    "emoji": "🤠",
+    "r": 100,
+    "g": 80,
+    "b": 60,
+    "category": "people",
+    "name": "face with cowboy hat"
+  },
+  {
+    "unicode": "1F921",
+    "emoji": "🤡",
+    "r": 255,
     "g": 200,
     "b": 150,
     "category": "people",
-    "name": "relieved"
+    "name": "clown face"
   },
   {
     "unicode": "1F922",
@@ -144,6 +558,42 @@
     "name": "nauseated"
   },
   {
+    "unicode": "1F923",
+    "emoji": "🤣",
+    "r": 255,
+    "g": 195,
+    "b": 80,
+    "category": "people",
+    "name": "rolling on floor"
+  },
+  {
+    "unicode": "1F924",
+    "emoji": "🤤",
+    "r": 200,
+    "g": 200,
+    "b": 150,
+    "category": "people",
+    "name": "drooling"
+  },
+  {
+    "unicode": "1F925",
+    "emoji": "🤥",
+    "r": 100,
+    "g": 180,
+    "b": 120,
+    "category": "people",
+    "name": "lying face"
+  },
+  {
+    "unicode": "1F928",
+    "emoji": "🤨",
+    "r": 150,
+    "g": 150,
+    "b": 100,
+    "category": "people",
+    "name": "raised eyebrow"
+  },
+  {
     "unicode": "1F929",
     "emoji": "🤩",
     "r": 255,
@@ -153,157 +603,274 @@
     "name": "star struck"
   },
   {
-    "unicode": "1F610",
-    "emoji": "😐",
-    "r": 200,
-    "g": 200,
-    "b": 200,
-    "category": "people",
-    "name": "neutral"
-  },
-  {
-    "unicode": "1F60A",
-    "emoji": "😊",
+    "unicode": "1F92A",
+    "emoji": "🤪",
     "r": 255,
     "g": 220,
-    "b": 130,
+    "b": 100,
     "category": "people",
-    "name": "smiling"
+    "name": "zany face"
   },
   {
-    "unicode": "1F60D",
-    "emoji": "😍",
-    "r": 255,
-    "g": 100,
-    "b": 140,
-    "category": "people",
-    "name": "heart eyes"
-  },
-  {
-    "unicode": "1F618",
-    "emoji": "😘",
-    "r": 255,
-    "g": 150,
-    "b": 180,
-    "category": "people",
-    "name": "kiss"
-  },
-  {
-    "unicode": "1F611",
-    "emoji": "😑",
-    "r": 180,
+    "unicode": "1F92E",
+    "emoji": "🤮",
+    "r": 100,
     "g": 180,
-    "b": 180,
+    "b": 100,
     "category": "people",
-    "name": "expressionless"
+    "name": "vomiting"
   },
   {
-    "unicode": "1F641",
-    "emoji": "🙁",
+    "unicode": "1F92F",
+    "emoji": "🤯",
     "r": 150,
     "g": 150,
     "b": 150,
     "category": "people",
-    "name": "frown"
+    "name": "exploding head"
   },
   {
-    "unicode": "1F620",
-    "emoji": "😠",
-    "r": 200,
-    "g": 100,
-    "b": 100,
-    "category": "people",
-    "name": "angry"
-  },
-  {
-    "unicode": "1F621",
-    "emoji": "😡",
-    "r": 220,
-    "g": 80,
-    "b": 80,
-    "category": "people",
-    "name": "pouting"
-  },
-  {
-    "unicode": "1F613",
-    "emoji": "😓",
-    "r": 180,
-    "g": 180,
-    "b": 180,
-    "category": "people",
-    "name": "sweat"
-  },
-  {
-    "unicode": "1F14",
-    "emoji": "🌳",
-    "r": 100,
-    "g": 200,
-    "b": 100,
-    "category": "nature",
-    "name": "tree"
-  },
-  {
-    "unicode": "1F33F",
-    "emoji": "🌿",
-    "r": 80,
-    "g": 180,
-    "b": 80,
-    "category": "nature",
-    "name": "herb"
-  },
-  {
-    "unicode": "1F340",
-    "emoji": "🍀",
-    "r": 100,
-    "g": 200,
-    "b": 100,
-    "category": "nature",
-    "name": "four leaf clover"
-  },
-  {
-    "unicode": "1F339",
-    "emoji": "🌹",
-    "r": 220,
-    "g": 100,
-    "b": 150,
-    "category": "nature",
-    "name": "rose"
-  },
-  {
-    "unicode": "1F337",
-    "emoji": "🌷",
+    "unicode": "1F970",
+    "emoji": "🥰",
     "r": 255,
     "g": 150,
-    "b": 200,
-    "category": "nature",
-    "name": "tulip"
-  },
-  {
-    "unicode": "1F338",
-    "emoji": "🌸",
-    "r": 255,
-    "g": 120,
     "b": 180,
-    "category": "nature",
-    "name": "cherry blossom"
+    "category": "people",
+    "name": "smiling heart eyes"
   },
   {
-    "unicode": "1F30A",
-    "emoji": "🌊",
+    "unicode": "1F971",
+    "emoji": "🥱",
+    "r": 200,
+    "g": 180,
+    "b": 150,
+    "category": "people",
+    "name": "yawning"
+  },
+  {
+    "unicode": "1F973",
+    "emoji": "🥳",
+    "r": 255,
+    "g": 220,
+    "b": 100,
+    "category": "people",
+    "name": "partying"
+  },
+  {
+    "unicode": "1F644",
+    "emoji": "🙄",
+    "r": 200,
+    "g": 200,
+    "b": 200,
+    "category": "people",
+    "name": "face with rolling eyes"
+  },
+  {
+    "unicode": "1F645",
+    "emoji": "🙅",
+    "r": 180,
+    "g": 150,
+    "b": 100,
+    "category": "people",
+    "name": "no gesture"
+  },
+  {
+    "unicode": "1F646",
+    "emoji": "🙆",
+    "r": 180,
+    "g": 200,
+    "b": 150,
+    "category": "people",
+    "name": "ok gesture"
+  },
+  {
+    "unicode": "1F647",
+    "emoji": "🙇",
+    "r": 180,
+    "g": 180,
+    "b": 200,
+    "category": "people",
+    "name": "bowing"
+  },
+  {
+    "unicode": "1F914",
+    "emoji": "🤔",
+    "r": 180,
+    "g": 150,
+    "b": 100,
+    "category": "people",
+    "name": "thinking"
+  },
+  {
+    "unicode": "1F30E",
+    "emoji": "🌎",
+    "r": 100,
+    "g": 150,
+    "b": 220,
+    "category": "nature",
+    "name": "earth americas"
+  },
+  {
+    "unicode": "1F30F",
+    "emoji": "🌏",
+    "r": 100,
+    "g": 150,
+    "b": 220,
+    "category": "nature",
+    "name": "earth asia"
+  },
+  {
+    "unicode": "1F310",
+    "emoji": "🌐",
     "r": 100,
     "g": 180,
     "b": 220,
     "category": "nature",
-    "name": "wave"
+    "name": "globe"
   },
   {
-    "unicode": "1F4A4",
-    "emoji": "💤",
+    "unicode": "1F311",
+    "emoji": "🌑",
+    "r": 50,
+    "g": 50,
+    "b": 50,
+    "category": "nature",
+    "name": "new moon"
+  },
+  {
+    "unicode": "1F312",
+    "emoji": "🌒",
+    "r": 80,
+    "g": 80,
+    "b": 100,
+    "category": "nature",
+    "name": "waxing crescent"
+  },
+  {
+    "unicode": "1F313",
+    "emoji": "🌓",
+    "r": 120,
+    "g": 120,
+    "b": 150,
+    "category": "nature",
+    "name": "first quarter"
+  },
+  {
+    "unicode": "1F314",
+    "emoji": "🌔",
+    "r": 150,
+    "g": 150,
+    "b": 180,
+    "category": "nature",
+    "name": "waxing gibbous"
+  },
+  {
+    "unicode": "1F315",
+    "emoji": "🌕",
+    "r": 255,
+    "g": 255,
+    "b": 200,
+    "category": "nature",
+    "name": "full moon"
+  },
+  {
+    "unicode": "1F316",
+    "emoji": "🌖",
     "r": 200,
     "g": 200,
-    "b": 200,
+    "b": 150,
+    "category": "nature",
+    "name": "waning gibbous"
+  },
+  {
+    "unicode": "1F317",
+    "emoji": "🌗",
+    "r": 150,
+    "g": 150,
+    "b": 120,
+    "category": "nature",
+    "name": "last quarter"
+  },
+  {
+    "unicode": "1F318",
+    "emoji": "🌘",
+    "r": 100,
+    "g": 100,
+    "b": 80,
+    "category": "nature",
+    "name": "waning crescent"
+  },
+  {
+    "unicode": "1F319",
+    "emoji": "🌙",
+    "r": 255,
+    "g": 220,
+    "b": 100,
+    "category": "nature",
+    "name": "crescent moon"
+  },
+  {
+    "unicode": "1F31A",
+    "emoji": "🌚",
+    "r": 255,
+    "g": 200,
+    "b": 100,
+    "category": "nature",
+    "name": "new moon face"
+  },
+  {
+    "unicode": "1F31B",
+    "emoji": "🌛",
+    "r": 255,
+    "g": 220,
+    "b": 120,
+    "category": "nature",
+    "name": "first quarter moon face"
+  },
+  {
+    "unicode": "1F31C",
+    "emoji": "🌜",
+    "r": 255,
+    "g": 220,
+    "b": 120,
+    "category": "nature",
+    "name": "last quarter moon face"
+  },
+  {
+    "unicode": "1F31D",
+    "emoji": "🌝",
+    "r": 255,
+    "g": 255,
+    "b": 100,
+    "category": "nature",
+    "name": "full moon face"
+  },
+  {
+    "unicode": "1F31E",
+    "emoji": "🌞",
+    "r": 255,
+    "g": 220,
+    "b": 80,
+    "category": "nature",
+    "name": "sun face"
+  },
+  {
+    "unicode": "1F31F",
+    "emoji": "🌟",
+    "r": 255,
+    "g": 220,
+    "b": 100,
     "category": "symbols",
-    "name": "zzz"
+    "name": "glowing star"
+  },
+  {
+    "unicode": "1F320",
+    "emoji": "🌠",
+    "r": 200,
+    "g": 150,
+    "b": 255,
+    "category": "symbols",
+    "name": "shooting star"
   },
   {
     "unicode": "2665",
@@ -342,22 +909,76 @@
     "name": "heart with ribbon"
   },
   {
-    "unicode": "1F31F",
-    "emoji": "🌟",
+    "unicode": "1F49E",
+    "emoji": "💞",
+    "r": 220,
+    "g": 100,
+    "b": 140,
+    "category": "symbols",
+    "name": "revolving hearts"
+  },
+  {
+    "unicode": "1F49F",
+    "emoji": "💟",
+    "r": 220,
+    "g": 100,
+    "b": 160,
+    "category": "symbols",
+    "name": "heart decoration"
+  },
+  {
+    "unicode": "1F4A0",
+    "emoji": "💠",
+    "r": 100,
+    "g": 150,
+    "b": 255,
+    "category": "symbols",
+    "name": "diamond shape"
+  },
+  {
+    "unicode": "1F4A1",
+    "emoji": "💡",
+    "r": 255,
+    "g": 220,
+    "b": 100,
+    "category": "objects",
+    "name": "light bulb"
+  },
+  {
+    "unicode": "1F4A4",
+    "emoji": "💤",
+    "r": 200,
+    "g": 200,
+    "b": 200,
+    "category": "symbols",
+    "name": "zzz"
+  },
+  {
+    "unicode": "1F4A9",
+    "emoji": "💩",
+    "r": 150,
+    "g": 100,
+    "b": 50,
+    "category": "objects",
+    "name": "pile poo"
+  },
+  {
+    "unicode": "1F4AA",
+    "emoji": "💪",
+    "r": 255,
+    "g": 180,
+    "b": 120,
+    "category": "people",
+    "name": "flexed biceps"
+  },
+  {
+    "unicode": "1F4AB",
+    "emoji": "💫",
     "r": 255,
     "g": 220,
     "b": 100,
     "category": "symbols",
-    "name": "glowing star"
-  },
-  {
-    "unicode": "1F320",
-    "emoji": "🌠",
-    "r": 200,
-    "g": 150,
-    "b": 255,
-    "category": "symbols",
-    "name": "shooting star"
+    "name": "dizzy"
   },
   {
     "unicode": "2728",
@@ -367,6 +988,15 @@
     "b": 100,
     "category": "symbols",
     "name": "sparkles"
+  },
+  {
+    "unicode": "1F385",
+    "emoji": "🎅",
+    "r": 220,
+    "g": 100,
+    "b": 80,
+    "category": "people",
+    "name": "santa"
   },
   {
     "unicode": "1F388",
@@ -394,6 +1024,60 @@
     "b": 100,
     "category": "objects",
     "name": "confetti ball"
+  },
+  {
+    "unicode": "1F38B",
+    "emoji": "🎋",
+    "r": 100,
+    "g": 150,
+    "b": 100,
+    "category": "objects",
+    "name": "tanabata tree"
+  },
+  {
+    "unicode": "1F38C",
+    "emoji": "🎌",
+    "r": 200,
+    "g": 100,
+    "b": 100,
+    "category": "flags",
+    "name": "crossed flags"
+  },
+  {
+    "unicode": "1F38D",
+    "emoji": "🎍",
+    "r": 100,
+    "g": 180,
+    "b": 80,
+    "category": "objects",
+    "name": "pine decoration"
+  },
+  {
+    "unicode": "1F38E",
+    "emoji": "🎎",
+    "r": 220,
+    "g": 150,
+    "b": 100,
+    "category": "objects",
+    "name": "japanese dolls"
+  },
+  {
+    "unicode": "1F38F",
+    "emoji": "🎏",
+    "r": 200,
+    "g": 100,
+    "b": 80,
+    "category": "objects",
+    "name": "carp streamer"
+  },
+  {
+    "unicode": "1F390",
+    "emoji": "🎐",
+    "r": 220,
+    "g": 150,
+    "b": 200,
+    "category": "objects",
+    "name": "wind chime"
   },
   {
     "unicode": "1F381",
@@ -439,5 +1123,230 @@
     "b": 220,
     "category": "objects",
     "name": "musical notes double"
+  },
+  {
+    "unicode": "1F33F",
+    "emoji": "🌿",
+    "r": 80,
+    "g": 180,
+    "b": 80,
+    "category": "nature",
+    "name": "herb"
+  },
+  {
+    "unicode": "1F340",
+    "emoji": "🍀",
+    "r": 100,
+    "g": 200,
+    "b": 100,
+    "category": "nature",
+    "name": "four leaf clover"
+  },
+  {
+    "unicode": "1F337",
+    "emoji": "🌷",
+    "r": 255,
+    "g": 150,
+    "b": 200,
+    "category": "nature",
+    "name": "tulip"
+  },
+  {
+    "unicode": "1F338",
+    "emoji": "🌸",
+    "r": 255,
+    "g": 120,
+    "b": 180,
+    "category": "nature",
+    "name": "cherry blossom"
+  },
+  {
+    "unicode": "1F339",
+    "emoji": "🌹",
+    "r": 220,
+    "g": 100,
+    "b": 150,
+    "category": "nature",
+    "name": "rose"
+  },
+  {
+    "unicode": "1F33A",
+    "emoji": "🌺",
+    "r": 220,
+    "g": 120,
+    "b": 180,
+    "category": "nature",
+    "name": "hibiscus"
+  },
+  {
+    "unicode": "1F33B",
+    "emoji": "🌻",
+    "r": 255,
+    "g": 200,
+    "b": 80,
+    "category": "nature",
+    "name": "sunflower"
+  },
+  {
+    "unicode": "1F33C",
+    "emoji": "🌼",
+    "r": 255,
+    "g": 220,
+    "b": 100,
+    "category": "nature",
+    "name": "blossom"
+  },
+  {
+    "unicode": "1F33D",
+    "emoji": "🌽",
+    "r": 255,
+    "g": 200,
+    "b": 80,
+    "category": "food",
+    "name": "corn"
+  },
+  {
+    "unicode": "1F33E",
+    "emoji": "🌾",
+    "r": 200,
+    "g": 180,
+    "b": 100,
+    "category": "nature",
+    "name": "sheaf rice"
+  },
+  {
+    "unicode": "1F341",
+    "emoji": "🍁",
+    "r": 220,
+    "g": 100,
+    "b": 80,
+    "category": "nature",
+    "name": "maple leaf"
+  },
+  {
+    "unicode": "1F342",
+    "emoji": "🍂",
+    "r": 220,
+    "g": 120,
+    "b": 80,
+    "category": "nature",
+    "name": "fallen leaf"
+  },
+  {
+    "unicode": "1F343",
+    "emoji": "🍃",
+    "r": 100,
+    "g": 180,
+    "b": 100,
+    "category": "nature",
+    "name": "leaf fluttering"
+  },
+  {
+    "unicode": "1F30A",
+    "emoji": "🌊",
+    "r": 100,
+    "g": 180,
+    "b": 220,
+    "category": "nature",
+    "name": "wave"
+  },
+  {
+    "unicode": "1F14",
+    "emoji": "🌳",
+    "r": 100,
+    "g": 200,
+    "b": 100,
+    "category": "nature",
+    "name": "tree"
+  },
+  {
+    "unicode": "1F2E9",
+    "emoji": "🋩",
+    "r": 150,
+    "g": 100,
+    "b": 80,
+    "category": "symbols",
+    "name": "shinto shrine"
+  },
+  {
+    "unicode": "1F301",
+    "emoji": "🌁",
+    "r": 200,
+    "g": 180,
+    "b": 150,
+    "category": "nature",
+    "name": "foggy"
+  },
+  {
+    "unicode": "1F302",
+    "emoji": "🌂",
+    "r": 220,
+    "g": 100,
+    "b": 100,
+    "category": "objects",
+    "name": "umbrella"
+  },
+  {
+    "unicode": "1F303",
+    "emoji": "🌃",
+    "r": 50,
+    "g": 80,
+    "b": 150,
+    "category": "nature",
+    "name": "night with stars"
+  },
+  {
+    "unicode": "1F304",
+    "emoji": "🌄",
+    "r": 255,
+    "g": 150,
+    "b": 80,
+    "category": "nature",
+    "name": "sunrise"
+  },
+  {
+    "unicode": "1F305",
+    "emoji": "🌅",
+    "r": 255,
+    "g": 180,
+    "b": 100,
+    "category": "nature",
+    "name": "sunrise over mountains"
+  },
+  {
+    "unicode": "1F306",
+    "emoji": "🌆",
+    "r": 100,
+    "g": 150,
+    "b": 200,
+    "category": "nature",
+    "name": "cityscape at dusk"
+  },
+  {
+    "unicode": "1F307",
+    "emoji": "🌇",
+    "r": 255,
+    "g": 150,
+    "b": 100,
+    "category": "nature",
+    "name": "sunset"
+  },
+  {
+    "unicode": "1F308",
+    "emoji": "🌈",
+    "r": 200,
+    "g": 200,
+    "b": 150,
+    "category": "nature",
+    "name": "rainbow"
+  },
+  {
+    "unicode": "1F309",
+    "emoji": "🌉",
+    "r": 100,
+    "g": 100,
+    "b": 180,
+    "category": "nature",
+    "name": "bridge at night"
   }
 ]
